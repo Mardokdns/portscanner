@@ -16,11 +16,11 @@ print("""
 ██║     ╚██████╔╝██║  ██║   ██║       ███████║╚██████╗██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
                                                                                                   
-by Mardok Security - Developer & Information Security Student
+by Durfly 🖤
 
-Twitter: @MardokSecurity
-YouTube: Mardok Security
-GitHub: @MardokSecurity
+Twitter: @DurflySecurity
+YouTube: Durfly Security
+GitHub: @DurflySecurity
 
 """)
 
