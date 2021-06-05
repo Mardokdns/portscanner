@@ -16,7 +16,7 @@ print("""
 ██║     ╚██████╔╝██║  ██║   ██║       ███████║╚██████╗██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
                                                                                                   
-by Mardok Security - Developer & Information Security Student
+By Mardok Security - Developer & Information Security Student
 
 Twitter: @MardokSecurity
 YouTube: Mardok Security
