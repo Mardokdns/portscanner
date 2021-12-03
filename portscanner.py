@@ -33,7 +33,14 @@ print("Listando ports...")
 time.sleep(3)
 
 for door in lista:
-    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    connection = sock.connect_ex((target, door))
-    if (connection == 0):
-        print(door, "OPEN")
+  try:
+      sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+      connection = sock.connect_ex((target, door))
+      if (connection == 0):
+          print(door, "OPEN")
+  except KeyboardInterrupt:
+    print("Processo encerrado.")
+    exit()
+  except socket.gaierror:
+    print("Host invalido.")
+    exit()
